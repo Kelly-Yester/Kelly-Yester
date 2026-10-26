@@ -1,8 +1,8 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22Kelly-Yester%22%2C%22name%22%3A%22Kelly%20Yester%22%2C%22email%22%3A%22k.yester.job%40gmail.com%22%2C%22linkedin%22%3A%22linkedin.com%2Fin%2Fkelly-yester%22%2C%22resume%22%3A%22https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1pFEgvqnni9VE_74ZdHrIvo8Sq_wGXPqo5okKj--AZLw%2Fedit%3Fusp%3Ddrive_link%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A3%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22Completed%20Credentials%22%2C%22issuer%22%3A%22SoftSkill%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2Fprofile%2Fkellyyester573821%2Fwallet%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22Kelly-Yester%22%2C%22name%22%3A%22Kelly%20Yester%22%2C%22email%22%3A%22k.yester.job%40gmail.com%22%2C%22linkedin%22%3A%22linkedin.com%2Fin%2Fkelly-yester%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22Foundational%20Skills%20for%20IT%20Professionals%22%2C%22issuer%22%3A%22%22%2C%22link%22%3A%22https%3A%2F%2Fgithub.com%2FKelly-Yester%2Fmycc-certificates%2Fblob%2Fmain%2FNet%2520I%2520Cert%25208.2026%2520132.pdf%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
-<img src="https://github.com/Kelly-Yester.png" width="150" style="border-radius:50%;border:4px solid #8250df"/>
+<img src="https://github.com/Kelly-Yester.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
 # Hi there, I'm Kelly Yester
 
@@ -10,7 +10,7 @@
 
 *ITSA Student*
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelly-yester) [![GITHUB](https://img.shields.io/badge/GITHUB-%40Kelly-Yester-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kelly-Yester) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.yester.job@gmail.com) [![RESUME](https://img.shields.io/badge/RESUME-VIEW-8250df?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1pFEgvqnni9VE_74ZdHrIvo8Sq_wGXPqo5okKj--AZLw/edit?usp=drive_link)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelly-yester) [![GITHUB](https://img.shields.io/badge/GITHUB-%40Kelly-Yester-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kelly-Yester) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.yester.job@gmail.com)
 
 </div>
 
@@ -32,7 +32,7 @@
 
 | Certification | Issuer | Verify | Badge |
 |---|---|---|---|
-| Completed Credentials | SoftSkill | [Verify](https://skillsoft.digitalbadges.skillsoft.com/profile/kellyyester573821/wallet) | — |
+| Foundational Skills for IT Professionals |  | [Verify](https://github.com/Kelly-Yester/mycc-certificates/blob/main/Net%20I%20Cert%208.2026%20132.pdf) | — |
 
 ---
 
